@@ -53,14 +53,10 @@ Commands (precede with '.')
 -resume //resumes reading
 
 
-
-
-
-
+IMPORTANT
+This bot requires the correct .env and GOOGLE_APPLICATION_VERIFICATION file. Which I must send to you. Put it in the DALIApp folder in order for the bot to work
 
 *Inside code change the line* 
 
 credentials = service_account.Credentials.from_service_account_file(r'C:\Users\camde\OneDrive\Desktop\DALIApp\GOOGLE_APPLICATION_CREDENTIALS.json') to the path to the included google verification json file
 
-IMPORTANT
-This bot requires the correct .env file. Which I must send to you. Put it in the DALIApp folder 
