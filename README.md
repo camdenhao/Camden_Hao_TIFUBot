@@ -1,11 +1,13 @@
 # Camden_Hao_TIFUBot
 A discord bot that utilizes Google's TTS API and the Reddit API to read posts from r/TIFU out loud. 
 
+
+
 Setting up environment: 
 
 make sure pip is downloaded: https://bootstrap.pypa.io/get-pip.py
 
-in command prompt: 
+Enter in command prompt: 
 
 -python get-pip.py 
 
@@ -33,9 +35,12 @@ Username: CH_DALI_TEMP
 Password: dalilab20w
 
 
+
+
+
 Commands (precede with '.')
 
--join //joins voice channel you are in
+-join //joins voice channel you are in 
 
 -leave //leaves voice channel 
 
@@ -50,6 +55,9 @@ Commands (precede with '.')
 -stop //stops playing altogether
 
 
-Inside code change the line 
+
+
+
+*Inside code change the line* 
 
 credentials = service_account.Credentials.from_service_account_file(r'C:\Users\camde\OneDrive\Desktop\DALIApp\GOOGLE_APPLICATION_CREDENTIALS.json') to the path to the included google verification json file
