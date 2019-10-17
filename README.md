@@ -63,4 +63,4 @@ Commands (precede with '.')
 credentials = service_account.Credentials.from_service_account_file(r'C:\Users\camde\OneDrive\Desktop\DALIApp\GOOGLE_APPLICATION_CREDENTIALS.json') to the path to the included google verification json file
 
 IMPORTANT
-This requires the correct .env file. Which I must send to you. Put it in the DALIApp folder 
+This bot requires the correct .env file. Which I must send to you. Put it in the DALIApp folder 
