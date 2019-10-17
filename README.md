@@ -52,7 +52,7 @@ Commands (precede with '.')
 
 -resume //resumes reading
 
--stop //stops playing altogether
+
 
 
 
