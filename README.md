@@ -15,7 +15,7 @@ Enter in command prompt:
 
 -pip install praw //Reddit API wrapper 
 
--pip install -U git+https://github.com/Rapptz/discord.py@master#egg=discord.py[voice] //discord.py version 1.3.0a, make sure have git
+-pip install -U git+https://github.com/Rapptz/discord.py@master#egg=discord.py[voice] //discord.py version 1.3.0a, make sure you have git
 
 -pip install asyncio //allows await/async syntax in code 
 
