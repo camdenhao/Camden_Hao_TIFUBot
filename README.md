@@ -29,3 +29,6 @@ read (link) //checks if is reddit/TIFU post, then reads the post
 pause //pauses reading
 resume //resumes reading
 stop //stops playing altogether
+
+Inside code change the line 
+credentials = service_account.Credentials.from_service_account_file(r'C:\Users\camde\OneDrive\Desktop\DALIApp\GOOGLE_APPLICATION_CREDENTIALS.json') to the path to the included google verification json file
