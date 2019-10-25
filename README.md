@@ -21,6 +21,8 @@ Enter in command prompt:
 
 -pip install --upgrade google-cloud-texttospeech
 
+-pip install -U python dotenv 
+
 
 
 -install ffmpeg https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg
@@ -30,7 +32,7 @@ Enter in command prompt:
 
 Throaway Discord Account for testing: 
 
-Username: CH_DALI_TEMP
+Username: CH_DALI_TEMP - Login email: ch.baccaman@gmail.com
 
 Password: dalilab20w
 
