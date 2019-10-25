@@ -13,7 +13,7 @@ from discord.ext.commands import Bot
 
 
 #text to speech
-credentials = service_account.Credentials.from_service_account_file(r'C:\Users\camde\OneDrive\Desktop\DALIApp\GOOGLE_APPLICATION_CREDENTIALS.json')
+credentials = service_account.Credentials.from_service_account_file(r'C:\your\path\to\GOOGLE_APPLICATION_CREDENTIALS.json')
 TTSclient = texttospeech.TextToSpeechClient(credentials=credentials)
 #Build the voice request, select the language code ("en-US") 
 #and the ssml voice gender ("neutral")
