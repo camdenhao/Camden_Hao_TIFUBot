@@ -21,7 +21,7 @@ Enter in command prompt:
 
 -pip install --upgrade google-cloud-texttospeech
 
--pip install -U python dotenv 
+-pip install -U python-dotenv 
 
 
 
